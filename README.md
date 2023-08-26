@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DubHaus
+- 👋 Hi, I’m @deadusr
 - 👀 I’m interested in frontend, backend and ML
 - 🌱 Know UX&UI
 - 💞️ I’m looking to collaborate on projects where I can be useful as a frontend engineer 
