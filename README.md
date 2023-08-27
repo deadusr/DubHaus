@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @deadusr
-- 👀 I’m interested in frontend, backend and ML
-- 🌱 Know UX&UI
-- 💞️ I’m looking to collaborate on projects where I can be useful as a frontend engineer 
+- 👀 I’m interested in gamedev and frontend
+- 🌱 Know Game Design, UX&UI, Unity;
+- 💞️ I’m looking to collaborate on projects where I can be useful
 - 📫 How to reach me - you can write me to Telegram @deadusr
 
 <!---
-DubHaus/DubHaus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+deadusr/deadusr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
